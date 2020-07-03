@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147741693237",
+    "firebase_url": "https://mytwitterapp-5e15e.firebaseio.com",
+    "project_id": "mytwitterapp-5e15e",
+    "storage_bucket": "mytwitterapp-5e15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147741693237:android:ec2298cb349306e2bae87c",
+        "android_client_info": {
+          "package_name": "com.chetan.mytwitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147741693237-7cibi8h6sdtjb783fvjjpsrsmt5ghe69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9D5JkSPcVf9Pl-Edy3jcpHqkdjVbUzMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147741693237-7cibi8h6sdtjb783fvjjpsrsmt5ghe69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
